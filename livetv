@@ -277,7 +277,6 @@ http://subslime.pointto.us:8080/bigadeal/bigadeal/182
 #EXTINF:0,UK : NEWCASTLE FC TV  (Live For Matches)
 http://subslime.pointto.us:8080/bigadeal/bigadeal/243
 #EXTINF:0,UK : REAL MADRID TV
-
 http://subslime.pointto.us:8080/bigadeal/bigadeal/15783
 #EXTINF:0,UK : SIS RACING
 http://subslime.pointto.us:8080/bigadeal/bigadeal/8487
@@ -361,12 +360,10 @@ http://subslime.pointto.us:8080/bigadeal/bigadeal/15782
 #EXTINF:0,TINY POP
 http://subslime.pointto.us:8080/bigadeal/bigadeal/606
 #EXTINF:0,VH1
-http://subslime.pointto.us:8080/bigadeal/bigadeal/626
 http://subslime.pointto.us:8080/bigadeal/bigadeal/5369
 #EXTINF:0,SCUZZ
-#EXTINF:0,IRE : VIRGIN MEDIA 3
-http://subslime.pointto.us:8080/bigadeal/bigadeal/15435
 #EXTINF:0,▁ ▂ ▄ ▅ IRISH TV ▅ ▄ ▂ ▁
+http://subslime.pointto.us:8080/bigadeal/bigadeal/15435
 #EXTINF:0,IRE : EIR SPORTS 1
 http://subslime.pointto.us:8080/bigadeal/bigadeal/239
 #EXTINF:0,IRE : EIR SPORTS 2
@@ -388,6 +385,8 @@ http://subslime.pointto.us:8080/bigadeal/bigadeal/17647
 #EXTINF:0,FASHION TV HD
 http://subslime.pointto.us:8080/bigadeal/bigadeal/25255
 #EXTINF:0,HEART TV HD
+http://subslime.pointto.us:8080/bigadeal/bigadeal/15435
+#EXTINF:0,IRE : VIRGIN MEDIA 3
 #EXTINF:0,▁ ▂ ▄ ▅ MUSIC CHOICE ▅ ▄ ▂ ▁
 http://subslime.pointto.us:8080/bigadeal/bigadeal/25254
 #EXTINF:0,MUSIC CHOICE - 90,S
