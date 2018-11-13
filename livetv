@@ -178,38 +178,16 @@ http://subslime.pointto.us:8080/bigadeal/bigadeal/18452
 #EXTINF:0,UK : BBC TWO WALES
 http://subslime.pointto.us:8080/bigadeal/bigadeal/18449
 #EXTINF:0,4 MUSIC
-http://subslime.pointto.us:8080/bigadeal/bigadeal/15778
-#EXTINF:0,AL JAZEERA  HD
-http://subslime.pointto.us:8080/bigadeal/bigadeal/306
-#EXTINF:0,ANIMAL PLANET HD
-http://subslime.pointto.us:8080/bigadeal/bigadeal/172
-#EXTINF:0,ARIRANG NEWS
-http://subslime.pointto.us:8080/bigadeal/bigadeal/22187
-#EXTINF:0,UK : ARSENAL TV
-http://subslime.pointto.us:8080/bigadeal/bigadeal/21948
-#EXTINF:0,UK : ASTRO SUPERSPORT ARENA HD
-http://subslime.pointto.us:8080/bigadeal/bigadeal/17073
-#EXTINF:0,UK : ASTRO SUPERSPORT HD
 http://subslime.pointto.us:8080/bigadeal/bigadeal/17072
 #EXTINF:0,IRE : VIRGIN MEDIA 2
-http://subslime.pointto.us:8080/bigadeal/bigadeal/18349
-#EXTINF:0,UK : AT THE RACES
 http://subslime.pointto.us:8080/bigadeal/bigadeal/241
 #EXTINF:0,UK | BABY TV
-http://subslime.pointto.us:8080/bigadeal/bigadeal/604
-#EXTINF:0,BBC NEWS HD
-http://subslime.pointto.us:8080/bigadeal/bigadeal/315
-#EXTINF:0,BBC PARLIAMENT
-http://subslime.pointto.us:8080/bigadeal/bigadeal/5229
-#EXTINF:0,UK : BETFRED
 http://subslime.pointto.us:8080/bigadeal/bigadeal/8493
 #EXTINF:0,BOOMERANG
 http://subslime.pointto.us:8080/bigadeal/bigadeal/5296
 #EXTINF:0,M20
 http://subslime.pointto.us:8080/bigadeal/bigadeal/15788
 #EXTINF:0,VIRGIN MUSIC TV
-http://subslime.pointto.us:8080/bigadeal/bigadeal/15789
-#EXTINF:0,UK : BOXNATION HD
 http://subslime.pointto.us:8080/bigadeal/bigadeal/233
 #EXTINF:0,CAPITAL TV
 http://subslime.pointto.us:8080/bigadeal/bigadeal/15790
@@ -226,8 +204,6 @@ http://subslime.pointto.us:8080/bigadeal/bigadeal/15777
 #EXTINF:0,UK : CHELSEA TV HD
 http://subslime.pointto.us:8080/bigadeal/bigadeal/625
 #EXTINF:0,CLUBLAND TV
-http://subslime.pointto.us:8080/bigadeal/bigadeal/15791
-#EXTINF:0,CNN HD
 http://subslime.pointto.us:8080/bigadeal/bigadeal/312
 #EXTINF:0,CRIME & INVESTIGATION HD
 http://subslime.pointto.us:8080/bigadeal/bigadeal/175
@@ -246,16 +222,6 @@ http://subslime.pointto.us:8080/bigadeal/bigadeal/614
 #EXTINF:0,DISNEY XD HD
 http://subslime.pointto.us:8080/bigadeal/bigadeal/617
 #EXTINF:0,UK : DMAX
-http://subslime.pointto.us:8080/bigadeal/bigadeal/18459
-#EXTINF:0,UK : Eleven Sports 1 | HD
-http://subslime.pointto.us:8080/bigadeal/bigadeal/22748
-#EXTINF:0,UK : Eleven Sports 2 | HD
-http://subslime.pointto.us:8080/bigadeal/bigadeal/22747
-#EXTINF:0,UK : EUROSPORT 1 HD
-http://subslime.pointto.us:8080/bigadeal/bigadeal/249
-#EXTINF:0,UK : EUROSPORT 2
-http://subslime.pointto.us:8080/bigadeal/bigadeal/246
-#EXTINF:0,UK : FREESPORTS
 http://subslime.pointto.us:8080/bigadeal/bigadeal/5327
 #EXTINF:0,H2 HD
 http://subslime.pointto.us:8080/bigadeal/bigadeal/176
@@ -266,14 +232,104 @@ http://subslime.pointto.us:8080/bigadeal/bigadeal/178
 #EXTINF:0,INVESTIGATION DISCOVERY  HD
 http://subslime.pointto.us:8080/bigadeal/bigadeal/183
 #EXTINF:0,KERRANG
-http://subslime.pointto.us:8080/bigadeal/bigadeal/15784
-#EXTINF:0,KISS TV
+http://subslime.pointto.us:8080/bigadeal/bigadeal/235
+#EXTINF:0,NAT GEO HD
+http://subslime.pointto.us:8080/bigadeal/bigadeal/180
+#EXTINF:0,NAT GEO WILD HD
+http://subslime.pointto.us:8080/bigadeal/bigadeal/15437
+#EXTINF:0,NHK WORLD
+http://subslime.pointto.us:8080/bigadeal/bigadeal/22050
+#EXTINF:0,NICK JR
+http://subslime.pointto.us:8080/bigadeal/bigadeal/608
+#EXTINF:0,NICK JR TOO
+http://subslime.pointto.us:8080/bigadeal/bigadeal/607
+#EXTINF:0,NICKELODEON
+http://subslime.pointto.us:8080/bigadeal/bigadeal/619
+#EXTINF:0,NICKTOONS
+http://subslime.pointto.us:8080/bigadeal/bigadeal/618
+#EXTINF:0,NOW 90'S
+http://subslime.pointto.us:8080/bigadeal/bigadeal/306
+#EXTINF:0,ANIMAL PLANET HD
+http://subslime.pointto.us:8080/bigadeal/bigadeal/15787
+#EXTINF:0,POP
+http://subslime.pointto.us:8080/bigadeal/bigadeal/5333
+#EXTINF:0,POP MAX
+#EXTINF:0,▁ ▂ ▄ ▅ CLUB TV ▅ ▄ ▂ ▁
+http://subslime.pointto.us:8080/bigadeal/bigadeal/18349
+#EXTINF:0,UK : AT THE RACES
+http://subslime.pointto.us:8080/bigadeal/bigadeal/5229
+#EXTINF:0,UK : BETFRED
+http://subslime.pointto.us:8080/bigadeal/bigadeal/15789
+#EXTINF:0,UK : BOXNATION HD
 http://subslime.pointto.us:8080/bigadeal/bigadeal/15785
 #EXTINF:0,UK : LADBROKES TV
 http://subslime.pointto.us:8080/bigadeal/bigadeal/8492
 #EXTINF:0,UK : LEEDS FC TV  (Live For Matches)
 http://subslime.pointto.us:8080/bigadeal/bigadeal/15436
 #EXTINF:0,UK : LFC TV HD
+http://subslime.pointto.us:8080/bigadeal/bigadeal/610
+#EXTINF:0,UK : PREMIER SPORTS 2
+http://subslime.pointto.us:8080/bigadeal/bigadeal/18232
+#EXTINF:0,UK : PREMIER SPORTS HD
+http://subslime.pointto.us:8080/bigadeal/bigadeal/4862
+#EXTINF:0,UK : RACING UK
+http://subslime.pointto.us:8080/bigadeal/bigadeal/182
+#EXTINF:0,UK : NEWCASTLE FC TV  (Live For Matches)
+http://subslime.pointto.us:8080/bigadeal/bigadeal/243
+#EXTINF:0,UK : REAL MADRID TV
+
+http://subslime.pointto.us:8080/bigadeal/bigadeal/15783
+#EXTINF:0,UK : SIS RACING
+http://subslime.pointto.us:8080/bigadeal/bigadeal/8487
+http://subslime.pointto.us:8080/bigadeal/bigadeal/5378
+#EXTINF:0,UK : SPFL- RAITH ROVERS TV (Match time Only)
+http://subslime.pointto.us:8080/bigadeal/bigadeal/15438
+#EXTINF:0,UK : SPFL-PARTICK THISTLE TV (Match time Only)
+http://subslime.pointto.us:8080/bigadeal/bigadeal/15802
+#EXTINF:0,UK : WILLIAM HILL TV
+http://subslime.pointto.us:8080/bigadeal/bigadeal/8489
+#EXTINF:0,UK |  (SPFL) CELTIC TV  (Match time Only)
+http://subslime.pointto.us:8080/bigadeal/bigadeal/628
+#EXTINF:0,UK :  RANGERS TV (Match time Only)
+http://subslime.pointto.us:8080/bigadeal/bigadeal/624
+#EXTINF:0,UK : (SPFL) ABERDEEN TV (Match time Only)
+http://subslime.pointto.us:8080/bigadeal/bigadeal/631
+#EXTINF:0,UK : (SPFL) DUNDEE TV (Match time Only)
+http://subslime.pointto.us:8080/bigadeal/bigadeal/627
+#EXTINF:0,UK : (SPFL) HEARTS TV (Match time Only)
+http://subslime.pointto.us:8080/bigadeal/bigadeal/18459
+#EXTINF:0,UK : Eleven Sports 1 | HD
+http://subslime.pointto.us:8080/bigadeal/bigadeal/22748
+#EXTINF:0,UK : Eleven Sports 2 | HD
+http://subslime.pointto.us:8080/bigadeal/bigadeal/22747
+#EXTINF:0,UK : EUROSPORT 1 HD
+http://subslime.pointto.us:8080/bigadeal/bigadeal/249
+#EXTINF:0,UK : EUROSPORT 2
+http://subslime.pointto.us:8080/bigadeal/bigadeal/246
+#EXTINF:0,UK : FREESPORTS
+http://subslime.pointto.us:8080/bigadeal/bigadeal/22187
+#EXTINF:0,UK : ARSENAL TV
+http://subslime.pointto.us:8080/bigadeal/bigadeal/21948
+#EXTINF:0,UK : ASTRO SUPERSPORT ARENA HD
+http://subslime.pointto.us:8080/bigadeal/bigadeal/17073
+#EXTINF:0,UK : ASTRO SUPERSPORT HD
+#EXTINF:0,▁ ▂ ▄ ▅ NEWS ▅ ▄ ▂ ▁
+#EXTINF:0,SKY NEWS
+http://skydvn-nowtv-atv-prod.skydvn.com/atv/skynews/1404/live/05.m3u8
+#EXTINF:0,SKY NEWS HD
+http://subslime.pointto.us:8080/bigadeal/bigadeal/15791
+#EXTINF:0,CNN HD
+http://subslime.pointto.us:8080/bigadeal/bigadeal/15439
+#EXTINF:0,UK : STV HD
+http://subslime.pointto.us:8080/bigadeal/bigadeal/15778
+#EXTINF:0,AL JAZEERA  HD
+http://subslime.pointto.us:8080/bigadeal/bigadeal/172
+#EXTINF:0,ARIRANG NEWS
+http://subslime.pointto.us:8080/bigadeal/bigadeal/18453
+#EXTINF:0,RT NEWS HD
+#EXTINF:0,▁ ▂ ▄ ▅ MUSIC ▅ ▄ ▂ ▁
+http://subslime.pointto.us:8080/bigadeal/bigadeal/15784
+#EXTINF:0,KISS TV
 http://subslime.pointto.us:8080/bigadeal/bigadeal/234
 #EXTINF:0,MAGIC
 http://subslime.pointto.us:8080/bigadeal/bigadeal/15786
@@ -296,53 +352,6 @@ http://subslime.pointto.us:8080/bigadeal/bigadeal/15796
 #EXTINF:0,MTV ROCKS
 http://subslime.pointto.us:8080/bigadeal/bigadeal/15797
 #EXTINF:0,UK : MUTV HD
-http://subslime.pointto.us:8080/bigadeal/bigadeal/235
-#EXTINF:0,NAT GEO HD
-http://subslime.pointto.us:8080/bigadeal/bigadeal/180
-#EXTINF:0,NAT GEO WILD HD
-http://subslime.pointto.us:8080/bigadeal/bigadeal/182
-#EXTINF:0,UK : NEWCASTLE FC TV  (Live For Matches)
-http://subslime.pointto.us:8080/bigadeal/bigadeal/15437
-#EXTINF:0,NHK WORLD
-http://subslime.pointto.us:8080/bigadeal/bigadeal/22050
-#EXTINF:0,NICK JR
-http://subslime.pointto.us:8080/bigadeal/bigadeal/608
-#EXTINF:0,NICK JR TOO
-http://subslime.pointto.us:8080/bigadeal/bigadeal/607
-#EXTINF:0,NICKELODEON
-http://subslime.pointto.us:8080/bigadeal/bigadeal/619
-#EXTINF:0,NICKTOONS
-http://subslime.pointto.us:8080/bigadeal/bigadeal/618
-#EXTINF:0,NOW 90'S
-http://subslime.pointto.us:8080/bigadeal/bigadeal/15787
-#EXTINF:0,POP
-http://subslime.pointto.us:8080/bigadeal/bigadeal/5333
-#EXTINF:0,POP MAX
-http://subslime.pointto.us:8080/bigadeal/bigadeal/610
-#EXTINF:0,UK : PREMIER SPORTS 2
-http://subslime.pointto.us:8080/bigadeal/bigadeal/18232
-#EXTINF:0,UK : PREMIER SPORTS HD
-http://subslime.pointto.us:8080/bigadeal/bigadeal/4862
-#EXTINF:0,UK : RACING UK
-http://subslime.pointto.us:8080/bigadeal/bigadeal/243
-#EXTINF:0,UK : REAL MADRID TV
-http://subslime.pointto.us:8080/bigadeal/bigadeal/18453
-#EXTINF:0,RT NEWS HD
-http://subslime.pointto.us:8080/bigadeal/bigadeal/5369
-#EXTINF:0,SCUZZ
-http://subslime.pointto.us:8080/bigadeal/bigadeal/15783
-#EXTINF:0,UK : SIS RACING
-http://subslime.pointto.us:8080/bigadeal/bigadeal/8487
-#EXTINF:0,SKY NEWS
-http://skydvn-nowtv-atv-prod.skydvn.com/atv/skynews/1404/live/05.m3u8
-#EXTINF:0,SKY NEWS HD
-http://subslime.pointto.us:8080/bigadeal/bigadeal/5378
-#EXTINF:0,UK : SPFL- RAITH ROVERS TV (Match time Only)
-http://subslime.pointto.us:8080/bigadeal/bigadeal/15438
-#EXTINF:0,UK : SPFL-PARTICK THISTLE TV (Match time Only)
-http://subslime.pointto.us:8080/bigadeal/bigadeal/15439
-#EXTINF:0,UK : STV HD
-http://subslime.pointto.us:8080/bigadeal/bigadeal/18462
 #EXTINF:0,MUSIC CHOICE - POP HITS
 http://subslime.pointto.us:8080/bigadeal/bigadeal/15780
 #EXTINF:0,THE-BOX
@@ -352,21 +361,12 @@ http://subslime.pointto.us:8080/bigadeal/bigadeal/15782
 #EXTINF:0,TINY POP
 http://subslime.pointto.us:8080/bigadeal/bigadeal/606
 #EXTINF:0,VH1
-http://subslime.pointto.us:8080/bigadeal/bigadeal/15802
-#EXTINF:0,UK : WILLIAM HILL TV
-http://subslime.pointto.us:8080/bigadeal/bigadeal/8489
-#EXTINF:0,UK |  (SPFL) CELTIC TV  (Match time Only)
-http://subslime.pointto.us:8080/bigadeal/bigadeal/628
-#EXTINF:0,UK :  RANGERS TV (Match time Only)
-http://subslime.pointto.us:8080/bigadeal/bigadeal/624
-#EXTINF:0,UK : (SPFL) ABERDEEN TV (Match time Only)
-http://subslime.pointto.us:8080/bigadeal/bigadeal/631
-#EXTINF:0,UK : (SPFL) DUNDEE TV (Match time Only)
-http://subslime.pointto.us:8080/bigadeal/bigadeal/627
-#EXTINF:0,UK : (SPFL) HEARTS TV (Match time Only)
 http://subslime.pointto.us:8080/bigadeal/bigadeal/626
+http://subslime.pointto.us:8080/bigadeal/bigadeal/5369
+#EXTINF:0,SCUZZ
 #EXTINF:0,IRE : VIRGIN MEDIA 3
 http://subslime.pointto.us:8080/bigadeal/bigadeal/15435
+#EXTINF:0,▁ ▂ ▄ ▅ IRISH TV ▅ ▄ ▂ ▁
 #EXTINF:0,IRE : EIR SPORTS 1
 http://subslime.pointto.us:8080/bigadeal/bigadeal/239
 #EXTINF:0,IRE : EIR SPORTS 2
@@ -388,6 +388,7 @@ http://subslime.pointto.us:8080/bigadeal/bigadeal/17647
 #EXTINF:0,FASHION TV HD
 http://subslime.pointto.us:8080/bigadeal/bigadeal/25255
 #EXTINF:0,HEART TV HD
+#EXTINF:0,▁ ▂ ▄ ▅ MUSIC CHOICE ▅ ▄ ▂ ▁
 http://subslime.pointto.us:8080/bigadeal/bigadeal/25254
 #EXTINF:0,MUSIC CHOICE - 90,S
 http://subslime.pointto.us:8080/bigadeal/bigadeal/25464
@@ -436,6 +437,7 @@ http://subslime.pointto.us:8080/bigadeal/bigadeal/25444
 #EXTINF:0,HIT TV
 http://subslime.pointto.us:8080/bigadeal/bigadeal/25465
 #EXTINF:0,NRJ HITS
+#EXTINF:0,▁ ▂ ▄ ▅ US NEWS ▅ ▄ ▂ ▁
 http://subslime.pointto.us:8080/bigadeal/bigadeal/25466
 #EXTINF:0,ABC NEWS HD
 http://subslime.pointto.us:8080/bigadeal/bigadeal/25553
@@ -461,6 +463,7 @@ http://subslime.pointto.us:8080/bigadeal/bigadeal/26513
 http://subslime.pointto.us:8080/bigadeal/bigadeal/26511
 #EXTINF:0,QVC STYLE
 http://subslime.pointto.us:8080/bigadeal/bigadeal/26512
+#EXTINF:0,▁ ▂ ▄ ▅ SKY SPORTS ▅ ▄ ▂ ▁
 #EXTINF:0,UK | SKY SPORTS ACTION FHD
 http://subslime.pointto.us:8080/bigadeal/bigadeal/27077
 #EXTINF:0,UK | SKY SPORTS ACTION HD
@@ -521,6 +524,7 @@ http://subslime.pointto.us:8080/bigadeal/bigadeal/27082
 http://subslime.pointto.us:8080/bigadeal/bigadeal/26618
 #EXTINF:0,UK | SKY SPORTS PREMIER LEAGUE
 http://subslime.pointto.us:8080/bigadeal/bigadeal/26617
+#EXTINF:0,▁ ▂ ▄ ▅ BT SPORTS ▅ ▄ ▂ ▁
 #EXTINF:0,UK | BT SPORT 1 FHD
 http://subslime.pointto.us:8080/bigadeal/bigadeal/27090
 #EXTINF:0,UK | BT SPORT 1 HD
@@ -544,6 +548,7 @@ http://subslime.pointto.us:8080/bigadeal/bigadeal/27087
 #EXTINF:0,UK | BT SPORT ESPN HD
 http://subslime.pointto.us:8080/bigadeal/bigadeal/26638
 #EXTINF:0,UK | BT SPORT ESPN
+#EXTINF:0,▁ ▂ ▄ ▅ SKY CINEMA ▅ ▄ ▂ ▁
 http://subslime.pointto.us:8080/bigadeal/bigadeal/26637
 #EXTINF:0,UK | SKY CINEMA ACTION
 http://subslime.pointto.us:8080/bigadeal/bigadeal/26675
@@ -606,6 +611,7 @@ http://subslime.pointto.us:8080/bigadeal/bigadeal/26650
 #EXTINF:0,UK | TCM HD
 http://subslime.pointto.us:8080/bigadeal/bigadeal/26651
 #EXTINF:0,UK | TRUE MOVIES
+#EXTINF:0,▁ ▂ ▄ ▅ US TV ▅ ▄ ▂ ▁
 http://subslime.pointto.us:8080/bigadeal/bigadeal/26646
 #EXTINF:0,US : A&E HD
 http://subslime.pointto.us:8080/bigadeal/bigadeal/8313
@@ -690,6 +696,8 @@ http://subslime.pointto.us:8080/bigadeal/bigadeal/8247
 #EXTINF:0,US : CORNERSTONE TV HD
 http://subslime.pointto.us:8080/bigadeal/bigadeal/8246
 #EXTINF:0,US : COZI TV HD
+http://subslime.pointto.us:8080/bigadeal/bigadeal/8254
+#EXTINF:0,US : COUNTRY MUSIC CHANNEL
 http://subslime.pointto.us:8080/bigadeal/bigadeal/8245
 #EXTINF:0,US : CRIME&INVESTIGATION HD
 http://subslime.pointto.us:8080/bigadeal/bigadeal/8243
@@ -706,6 +714,8 @@ http://subslime.pointto.us:8080/bigadeal/bigadeal/8238
 #EXTINF:0,US : CW (Philly)  HD
 http://subslime.pointto.us:8080/bigadeal/bigadeal/8237
 #EXTINF:0,US : DESTINATION AMERICA HD
+http://subslime.pointto.us:8080/bigadeal/bigadeal/18456
+#EXTINF:0,US : DESTINATION AMERICA
 http://subslime.pointto.us:8080/bigadeal/bigadeal/8236
 #EXTINF:0,US : DEUTSCHE WELLE  TV
 http://subslime.pointto.us:8080/bigadeal/bigadeal/8223
@@ -908,6 +918,7 @@ http://subslime.pointto.us:8080/bigadeal/bigadeal/5204
 #EXTINF:0,US : PAC-12 OREGON
 http://subslime.pointto.us:8080/bigadeal/bigadeal/5202
 #EXTINF:0,US : PAC-12 WASHINGTON
+#EXTINF:0,▁ ▂ ▄ ▅ US CINEMA ▅ ▄ ▂ ▁
 http://subslime.pointto.us:8080/bigadeal/bigadeal/5201
 #EXTINF:0,US : SHOWTIME  HD
 http://subslime.pointto.us:8080/bigadeal/bigadeal/8136
@@ -934,6 +945,35 @@ http://subslime.pointto.us:8080/bigadeal/bigadeal/8122
 #EXTINF:0,US : STARZ WESTERNS HD
 http://subslime.pointto.us:8080/bigadeal/bigadeal/8121
 #EXTINF:0,US : TCM HD
+http://subslime.pointto.us:8080/bigadeal/bigadeal/6867
+#EXTINF:0,US : CINEMAX ACTION  HD
+http://subslime.pointto.us:8080/bigadeal/bigadeal/8259
+#EXTINF:0,US : CINEMAX EAST HD
+http://subslime.pointto.us:8080/bigadeal/bigadeal/8257
+#EXTINF:0,US : CINEMAX MOREMAX HD
+http://subslime.pointto.us:8080/bigadeal/bigadeal/8256
+#EXTINF:0,US : CINEMAX OUTERMAX HD
+http://subslime.pointto.us:8080/bigadeal/bigadeal/8255
+#EXTINF:0,US : CINEMAX THRILLER HD
+http://subslime.pointto.us:8080/bigadeal/bigadeal/19113
+#EXTINF:0,US : HALLMARK MOVIES & MYSTERIES  HD
+http://subslime.pointto.us:8080/bigadeal/bigadeal/8178
+#EXTINF:0,US : HBO  HD
+http://subslime.pointto.us:8080/bigadeal/bigadeal/8192
+#EXTINF:0,US : HBO 2 HD
+http://subslime.pointto.us:8080/bigadeal/bigadeal/8198
+#EXTINF:0,US : HBO COMEDY HD
+http://subslime.pointto.us:8080/bigadeal/bigadeal/8197
+#EXTINF:0,US : HBO FAMILY HD
+http://subslime.pointto.us:8080/bigadeal/bigadeal/8196
+#EXTINF:0,US : HBO SIGNATURE HD
+http://subslime.pointto.us:8080/bigadeal/bigadeal/8195
+#EXTINF:0,US : HBO ZONE HD
+http://subslime.pointto.us:8080/bigadeal/bigadeal/8193
+#EXTINF:0,US : HDNET MOVIES HD
+http://subslime.pointto.us:8080/bigadeal/bigadeal/8191
+#EXTINF:0,US : LIFETIME MOVIES  HD
+#EXTINF:0,▁ ▂ ▄ ▅ US SPORTS ▅ ▄ ▂ ▁
 http://subslime.pointto.us:8080/bigadeal/bigadeal/8112
 #EXTINF:0,US : THE GOLF CHANNEL
 http://subslime.pointto.us:8080/bigadeal/bigadeal/14774
@@ -958,20 +998,6 @@ http://subslime.pointto.us:8080/bigadeal/bigadeal/6850
 #EXTINF:0,US : BIG TEN NETWORK HD
 http://subslime.pointto.us:8080/bigadeal/bigadeal/8281
 #EXTINF:0,US : CBS SPORTS NETWORK HD
-http://subslime.pointto.us:8080/bigadeal/bigadeal/6867
-#EXTINF:0,US : CINEMAX ACTION  HD
-http://subslime.pointto.us:8080/bigadeal/bigadeal/8259
-#EXTINF:0,US : CINEMAX EAST HD
-http://subslime.pointto.us:8080/bigadeal/bigadeal/8257
-#EXTINF:0,US : CINEMAX MOREMAX HD
-http://subslime.pointto.us:8080/bigadeal/bigadeal/8256
-#EXTINF:0,US : CINEMAX OUTERMAX HD
-http://subslime.pointto.us:8080/bigadeal/bigadeal/8255
-#EXTINF:0,US : CINEMAX THRILLER HD
-http://subslime.pointto.us:8080/bigadeal/bigadeal/8254
-#EXTINF:0,US : COUNTRY MUSIC CHANNEL
-http://subslime.pointto.us:8080/bigadeal/bigadeal/18456
-#EXTINF:0,US : DESTINATION AMERICA
 http://subslime.pointto.us:8080/bigadeal/bigadeal/8614
 #EXTINF:0,US : ELEVEN SPORTS HD USA
 http://subslime.pointto.us:8080/bigadeal/bigadeal/15440
@@ -994,24 +1020,6 @@ http://subslime.pointto.us:8080/bigadeal/bigadeal/6856
 #EXTINF:0,US : FOX SPORTS 2 HD
 http://subslime.pointto.us:8080/bigadeal/bigadeal/6855
 #EXTINF:0,US : GOL TV
-http://subslime.pointto.us:8080/bigadeal/bigadeal/19113
-#EXTINF:0,US : HALLMARK MOVIES & MYSTERIES  HD
-http://subslime.pointto.us:8080/bigadeal/bigadeal/8178
-#EXTINF:0,US : HBO  HD
-http://subslime.pointto.us:8080/bigadeal/bigadeal/8192
-#EXTINF:0,US : HBO 2 HD
-http://subslime.pointto.us:8080/bigadeal/bigadeal/8198
-#EXTINF:0,US : HBO COMEDY HD
-http://subslime.pointto.us:8080/bigadeal/bigadeal/8197
-#EXTINF:0,US : HBO FAMILY HD
-http://subslime.pointto.us:8080/bigadeal/bigadeal/8196
-#EXTINF:0,US : HBO SIGNATURE HD
-http://subslime.pointto.us:8080/bigadeal/bigadeal/8195
-#EXTINF:0,US : HBO ZONE HD
-http://subslime.pointto.us:8080/bigadeal/bigadeal/8193
-#EXTINF:0,US : HDNET MOVIES HD
-http://subslime.pointto.us:8080/bigadeal/bigadeal/8191
-#EXTINF:0,US : LIFETIME MOVIES  HD
 http://subslime.pointto.us:8080/bigadeal/bigadeal/8177
 #EXTINF:0,US : MLB NETWORK HD
 http://subslime.pointto.us:8080/bigadeal/bigadeal/16384
@@ -1024,6 +1032,7 @@ http://subslime.pointto.us:8080/bigadeal/bigadeal/22271
 #EXTINF:0,US : NESN
 http://subslime.pointto.us:8080/bigadeal/bigadeal/5371
 #EXTINF:0,CA :  GOLF CHANNEL HD
+#EXTINF:0,▁ ▂ ▄ ▅ CANADA ▅ ▄ ▂ ▁
 http://subslime.pointto.us:8080/bigadeal/bigadeal/7980
 #EXTINF:0,CA : A&E HD
 http://subslime.pointto.us:8080/bigadeal/bigadeal/8086
